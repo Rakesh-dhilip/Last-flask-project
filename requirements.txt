@@ -15,7 +15,7 @@ Flask-User==1.0.1.5
 # Automated tests
 pytest==3.0.5
 pytest-cov==2.4.0
-Flask-Bootstrap==3.3.71
+Flask-Bootstrap==3.3.7.1
 Flask-Login==0.5.0
 Flask-Gravater==0.5.0
 Flask-CKEditor==0.4.4.1
